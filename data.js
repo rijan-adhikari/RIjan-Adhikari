@@ -7,7 +7,7 @@
 var SITE_DATA = {
   identity: {
     name: "Rijan Adhikari",
-    handle: "Cyb3rMadx",
+    handle: "rijan-adhikari",
     title: "Software Developer & Cybersecurity Enthusiast",
     location: "Nepal",
     statement:
@@ -208,7 +208,7 @@ var SITE_DATA = {
         "Getting audio and UI state to stay in sync"
       ],
       status: "Complete",
-      links: { github: "https://github.com/Cyb3rMadx/proposal-website", live: "https://proposal-website-g4n8.onrender.com" }
+      links: { github: "https://github.com/rijan-adhikari/proposal-website", live: "https://proposal-website-g4n8.onrender.com" }
     },
     {
       title: "Proposal Website With Backend",
@@ -297,8 +297,8 @@ var SITE_DATA = {
   social: {
     email: "business.rijan.np@gmail.com",
     whatsapp: "9779708741190",
-    github: "https://github.com/Cyb3rMadx",
-    githubUsername: "Cyb3rMadx",
+    github: "https://github.com/rijan-adhikari/MY_Portfolio",
+    githubUsername: "rijan-adhikari",
     facebook: "https://www.facebook.com/profile.php?id=61585298038728",
     instagram: "https://www.instagram.com/rizan.js/"
   },
